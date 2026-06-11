@@ -1,0 +1,6 @@
+{
+  "name": "AI Medical Assistant",
+  "description": "An educational, safe, and professional AI Medical Assistant Bot for symptoms triage, reports, and wellness suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
